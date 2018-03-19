@@ -1,4 +1,4 @@
-package com.chenhl.design.model.dynamicproxy;
+package com.chenhl.design.model.dynamicproxy.demo1;
 
 /**
  * 真实角色

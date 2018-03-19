@@ -1,4 +1,4 @@
-package com.chenhl.design.model.dynamicproxy;
+package com.chenhl.design.model.dynamicproxy.demo1;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
