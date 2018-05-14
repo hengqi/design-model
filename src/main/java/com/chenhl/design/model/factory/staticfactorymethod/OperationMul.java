@@ -1,4 +1,4 @@
-package com.chenhl.design.model.staticfactorymethod;
+package com.chenhl.design.model.factory.staticfactorymethod;
 
 /**
  * 具体产品角色

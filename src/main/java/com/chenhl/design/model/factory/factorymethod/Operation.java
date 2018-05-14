@@ -1,4 +1,4 @@
-package com.chenhl.design.model.staticfactorymethod;
+package com.chenhl.design.model.factory.factorymethod;
 
 /**
  * 抽象产品角色

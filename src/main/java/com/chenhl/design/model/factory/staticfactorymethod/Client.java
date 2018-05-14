@@ -1,11 +1,10 @@
-package com.chenhl.design.model.factorymethod;
+package com.chenhl.design.model.factory.staticfactorymethod;
 
 public class Client {
 
     public static void main(String[] args) {
-        IFactory factory = new AddFactory();
-        Operation operationAdd = factory.createOperation();
 
+        Operation operationAdd = OperationFactory.createOperation("+");
         operationAdd.setValue1(10);
         operationAdd.setValue2(5);
 
