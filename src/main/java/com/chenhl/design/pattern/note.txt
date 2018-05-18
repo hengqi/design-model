@@ -1,5 +1,5 @@
 本文转自：http://www.hollischuang.com/archives/1368
-特别推荐HollisChuang的博客
+墙裂推荐HollisChuang的博客 --java成神之路
 
 1. 设计模式的六大原则
 
